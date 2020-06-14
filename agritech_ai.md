@@ -39,3 +39,4 @@
 
 ## Summary reports and biz overviews
 - https://www.forbes.com/sites/maggiemcgrath/2017/06/28/the-25-most-innovative-ag-tech-startups/
+- https://tech.eu/features/5480/10-european-agritech-startups/
