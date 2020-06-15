@@ -36,7 +36,15 @@
 
 - Granular - software to help them track everything. Granular’s software does this for farmers, allowing them to prioritize their workforce, monitor profitability, forecast revenues and more
 
+- Breedr (UK) - www.breedr.co - free precision livestock management app
 
+- Gamaya (SWITZERLAND) - http://gamaya.com/ - improves efficiency and sustainability of farming businesses by offering compelling agronomy solutions, enabled by hyperspectral imaging and artificial intelligence
+
+- Agrivi (UK) - https://www.agrivi.com/en - most powerful farm management software
+
+- Farmeron (US) - farmeron.com - Farmeron has developed a cloud service for cattle farmers
+
+- 
 ## Summary reports and biz overviews
 - https://www.forbes.com/sites/maggiemcgrath/2017/06/28/the-25-most-innovative-ag-tech-startups/
 - https://tech.eu/features/5480/10-european-agritech-startups/
